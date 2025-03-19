@@ -1,6 +1,6 @@
 # Library Management System 📚
 
-A simple Java-based **Library Management System** that allows librarians to manage books and members while enabling members to borrow and return books efficiently. The system also includes a fine calculation mechanism for late returns.
+A simple Java-based **Library Management System** that allows librarians to manage books while enabling members to borrow and return books efficiently. The system also includes a fine calculation mechanism for late returns.
 
 ## 🛠️ Technologies Used
 - **Java**: Core programming language
